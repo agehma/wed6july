@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-                git 'https://github.com/agehma/mavenproject.git'
+                git 'https://github.com/agehma/wed6july.git'
             }
         }
         stage('Continuousbuild')
